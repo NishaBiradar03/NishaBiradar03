@@ -34,15 +34,20 @@ Currently Learining python, Django + Rest API's . Looking to collaborate on open
 **🔥 Featured Projects**
 
 * Portfolio Website
-   Personal portfolio showcasing projects, skills, and blog.
-   Built with HTML, CSS, JavaScript for responsive design.
+   Personal Portfolio Website built using HTML, CSS, and JavaScript.
+   It is designed to showcase my skills, projects, blogs in a clean and responsive layout.
    Live Demo | Repository
 
-2. TaskFocus 
-Task management web app built with React to help users organize, track, and prioritize daily tasks efficiently.
-Live Demo | Repository
+* TaskFocus
+   TaskFocus is a clean and interactive task management application built with React.js.
+   It allows users to add, categorize, prioritize, complete, and delete tasks — with a built-in progress tracker to visualize their productivity.
+  
 
-3. E-commerce 
+* REST Countries API
+ Countries Explorer is a fully responsive and interactive web application built using HTML, CSS, and JavaScript.
+ It allows users to explore detailed information about countries across the world, using live data from the REST Countries API.
+ Users can view country flags, population, capital, region, and navigate to neighboring countries — all through a clean, minimal interface.
+
 
 
 **📫 Connect With Me**
