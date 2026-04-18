@@ -1,60 +1,70 @@
 **Hi there, I'm Nisha Biradar! 👋**
 
-Enthusiastic developer exploring Web Development, JavaScript and React. Interested in Full-stack Development.
-Currently Learining python, Django + Rest API's . Looking to collaborate on open-source projects & innovative ideas. Passionate about software development, problem solving and building impactful Projects 
+Aspiring **Data Analyst** with a strong interest in data-driven decision making and business insights. Skilled in Excel, Power BI, and SQL, with a growing foundation in Python for data analysis. Passionate about transforming raw data into meaningful insights, creating interactive dashboards, and solving real-world business problems.
 
-**🚀 About Me**
+---
 
+## 🚀 About Me
 
-🌱 Currently learning: python, Django, REST APIs.
-👯 Open to collaborate on: Open-source projects, innovative web apps
-💬 Ask me about: Python, JavaScript, full-stack development, or problem-solving challenges.
-⚡ Fun fact: I love turning complex ideas into simple, user-friendly code!
+🌱 Currently learning: Python, SQL, Data Visualization
+👯 Open to collaborate on: Data analysis projects, dashboards, and open datasets
+💬 Ask me about: Excel, Power BI, Data Cleaning, Dashboard Building
 
-🛠️ Tech Stack
+---
 
-**Languages**
+## 🛠️ Tech Stack
 
- * Python
- * JavaScript
- * Java
+### 📊 Data Analysis & Visualization
 
-**Frameworks & Libraries**
+* Excel (Pivot Tables, Charts, Dashboards, Data Cleaning)
+* Power BI (DAX, Data Modeling, Interactive Dashboards)
 
- * React
- * Redux
+### 💻 Programming & Query Languages
 
-**Databases & Tools**
+* Python (Pandas, NumPy - Beginner Level)
+* SQL (MySQL)
 
- * MySQL
- * Git
- * GitHub
- * VS Code
+### 🧰 Tools
 
-**🔥 Featured Projects**
+* Git
+* GitHub
+* VS Code
 
-* Portfolio Website
-   Personal Portfolio Website built using HTML, CSS, and JavaScript.
-   It is designed to showcase my skills, projects, blogs in a clean and responsive layout.
-   Live Demo | Repository
+---
 
-* TaskFocus
-   TaskFocus is a clean and interactive task management application built with React.js.
-   It allows users to add, categorize, prioritize, complete, and delete tasks — with a built-in progress tracker to visualize their productivity.
-  
+## 🔥 Featured Projects
 
-* REST Countries API
- Countries Explorer is a fully responsive and interactive web application built using HTML, CSS, and JavaScript.
- It allows users to explore detailed information about countries across the world, using live data from the REST Countries API.
- Users can view country flags, population, capital, region, and navigate to neighboring countries — all through a clean, minimal interface.
+### 📊 Excel Sales Dashboard
 
+* Built an interactive dashboard using Excel
+* Used Pivot Tables, Charts, and Slicers for analysis
+* Generated insights on sales performance and trends
+* 🔗 GitHub Repository: https://github.com/NishaBiradar03/Excel-Project
 
+---
 
-**📫 Connect With Me**
+### 📈 Power BI Dashboard *(Add when ready)*
 
-📧 Email: beingnishabiradar@gmail.com
-💼 LinkedIn: www.linkedin.com/in/nisha-biradar03
+* Designed interactive dashboards with cards, maps, and slicers
+* Performed data cleaning and transformation using Power Query
+* Created KPIs and insights using DAX
 
-Feel free to check out my other repositories and leave a star ⭐ if you like any project! Let's connect and build something amazing together.
+---
 
+### 🐍 Python Data Analysis Project *(Add when ready)*
+
+* Performed data cleaning and analysis using Pandas
+* Visualized data insights using charts
+* Extracted meaningful patterns from datasets
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [beingnishabiradar@gmail.com](mailto:beingnishabiradar@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/nisha-biradar03
+
+---
+
+⭐ Feel free to explore my repositories and connect with me. I'm always open to learning, collaborating, and growing in the field of data analytics!
 
